@@ -9,7 +9,10 @@
   },
   "homepage": "https://slashml.ai",
   "repository": "https://github.com/slashml-ai/claude-slashml-robotics",
+  "documentationUrl": "https://docs.slashml.ai",
+  "supportUrl": "https://slashml.ai/support",
   "privacyPolicyUrl": "https://slashml.ai/privacy",
+  "termsOfServiceUrl": "https://slashml.ai/terms",
   "license": "Apache-2.0",
   "keywords": [
     "slashml",
