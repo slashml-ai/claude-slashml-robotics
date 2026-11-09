@@ -1,30 +1,22 @@
 {
   "name": "slashml-robotics",
-  "version": "1.0.2",
-  "description": "Embodied 6-DoF SE(3) spatial world state, kinematic trajectories, and affordance memory for robotics agents and ROS 2.",
+  "version": "1.0.3",
+  "description": "Sub-millisecond embodied episodic memory, 7-DoF trajectory indexing, and pre-execution kinematic safety gates for Claude Code, Cowork, and Claude apps.",
   "icon": ".claude-plugin/icon.png",
   "author": {
     "name": "SlashML",
     "url": "https://slashml.ai"
   },
-  "homepage": "https://slashml.ai/use-cases/embodied-robotics.html",
+  "homepage": "https://slashml.ai",
   "repository": "https://github.com/slashml-ai/claude-slashml-robotics",
   "privacyPolicyUrl": "https://slashml.ai/privacy",
   "license": "Apache-2.0",
   "keywords": [
     "slashml",
     "robotics",
-    "ros2",
-    "spatial-memory",
+    "embodied-ai",
+    "vla",
+    "kinematic-safety",
     "mcp"
-  ],
-  "userConfig": {
-    "api_key": {
-      "type": "string",
-      "title": "SlashML API Key",
-      "description": "Your SlashML API key (sml_live_...) from https://app.slashml.ai",
-      "required": true,
-      "sensitive": true
-    }
-  }
+  ]
 }
